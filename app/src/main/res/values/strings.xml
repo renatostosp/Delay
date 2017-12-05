@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Enviar</string>
+    <string name="textView2">Arduino Delay</string>
+    <string name="textView3">Time</string>
+    <string name="textView">Level</string>
+</resources>
